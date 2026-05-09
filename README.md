@@ -1,40 +1,47 @@
-# 🚀 Professional Portfolio Website
+# 🚀 Zerihun Dagne | Professional Portfolio
 
-Welcome to my personal portfolio repository. This project showcases my skills in web development, Telegram bot creation, and Python automation.
+Welcome to my official portfolio repository! I am a **Software Developer** and **Telegram Bot Developer** passionate about building automated systems and modern web experiences.
 
-## ✨ Features
-* **Modern UI/UX:** Responsive design that works on all devices.
-* **Dark/Light Mode:** User-friendly theme switching.
-* **Project Showcase:** Highlights over 7+ projects including automation tools and bots.
-* **Interactive Badges:** Clean display of technical skills.
+## 🌟 Live Website
+🌍 **Visit here:** [https://zerihundagne880-bot.github.io/My-Portfolio/](https://zerihundagne880-bot.github.io/My-Portfolio/)
 
-## 📸 Project Preview (Screenshots)
-Below are the screenshots of the development process and the final design in Spck Editor:
+---
+
+## 📸 Project Showcase (Spck Editor Development)
+Here are the highlights of my portfolio development process and UI design:
 
 <p align="center">
-  <img src="Screenshot_20260509_135600_Spck Editor.jpg" width="400" alt="UI Design 1">
-  <img src="Screenshot_20260509_135611_Spck Editor.jpg" width="400" alt="UI Design 2">
+  <img src="Screenshot_20260509_135600_Spck Editor.jpg" width="32%" alt="UI Design 1">
+  <img src="Screenshot_20260509_135611_Spck Editor.jpg" width="32%" alt="UI Design 2">
+  <img src="Screenshot_20260509_135627_Spck Editor.jpg" width="32%" alt="Code View">
 </p>
 
 <p align="center">
-  <img src="Screenshot_20260509_135627_Spck Editor.jpg" width="400" alt="Code Structure">
-  <img src="Screenshot_20260509_135634_Spck Editor.jpg" width="400" alt="Mobile View">
+  <img src="Screenshot_20260509_135634_Spck Editor.jpg" width="48%" alt="Mobile Layout">
+  <img src="Screenshot_20260509_135640_Spck Editor.jpg" width="48%" alt="Final Result">
 </p>
 
-<p align="center">
-  <img src="Screenshot_20260509_135640_Spck Editor.jpg" width="400" alt="Final Preview">
-</p>
+---
 
-## 🛠 Built With
-* **HTML5** - Structure
-* **CSS3** - Styling & Animations
-* **JavaScript** - Theme switching & Interactivity
-* **Termux/Spck Editor** - Mobile Development Environment
+## 🛠 Tech Stack
+* **Web:** HTML5, CSS3, JavaScript (Modern UI/UX)
+* **Automation:** Python, BeautifulSoup (Web Scraping)
+* **Environment:** Termux, Spck Editor, Git
 
-## 🌍 Live Demo
-You can visit the live site here: 
-[https://zerihundagne880-bot.github.io/My-Portfolio/](https://zerihundagne880-bot.github.io/My-Portfolio/)
+---
 
-## 👤 Connect with Me
-* **GitHub:** [@zerihundagne880-bot](https://github.com/zerihundagne880-bot)
-* **Telegram:** [zedyo123]
+## 🔗 Connect With Me
+Feel free to reach out for collaborations or project inquiries through any of the platforms below:
+
+| Platform | Link |
+| :--- | :--- |
+| 📬 **Email** | [zerihundagne880@gmail.com](mailto:zerihundagne880@gmail.com) |
+| ✈️ **Telegram** | [@zedyo123](https://t.me/zedyo123) |
+| 💻 **GitHub** | [zerihundagne880-bot](https://github.com/zerihundagne880-bot) |
+| 🔗 **LinkedIn** | [Zerihun Dagne](https://www.linkedin.com/in/zerihun-dagne-0233a43b7) |
+| 👥 **Facebook** | [Zerihun Zeda Dagne](https://www.facebook.com/zerihun.zeda.dagne) |
+| 📸 **Instagram** | [@zerihun358](https://www.instagram.com/zerihun358) |
+| 🎵 **TikTok** | [@zerihun358](https://www.tiktok.com/@zerihun358) |
+
+---
+*Created with 💻 using Termux and Spck Editor.*
