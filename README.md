@@ -37,4 +37,4 @@ You can visit the live site here:
 
 ## 👤 Connect with Me
 * **GitHub:** [@zerihundagne880-bot](https://github.com/zerihundagne880-bot)
-* **Telegram:** [@zedyo123]
+* **Telegram:** [zedyo123]
